@@ -595,7 +595,6 @@ map.ROOMS[26]=room26
 game = "running"
 
 player = Player()
-room15.health = 25 #temporary!
 player.map = True #temporary!
 
 playerinput()
