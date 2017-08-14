@@ -591,7 +591,7 @@ map.ROOMS[26]=room26
 # print("Well met, " +name+". If you seek to enter the mines, you must be careful to stay on this side of death...  Here, take this...")
 
 
-
+print("gamestate running")
 game = "running"
 
 player = Player()
