@@ -11,3 +11,7 @@ Player Stat Changes
 Environmental progression through use of locks and specific pathing requirements
 Functional Savegame and Loadgame system.
 Pickling
+
+Current Status:
+Games systems working
+Intro and full room details in progress.
